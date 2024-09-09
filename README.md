@@ -15,7 +15,7 @@ Per Aspera Ad Astra.
 
 
 ### Mostly used code languages
-![projects](https://skillicons.dev/icons?i=ts,js,vue,nodejs,express,webpack,vite,Python,mongodb)
+![projects](https://skillicons.dev/icons?i=ts,js,vue,nodejs,express,webpack,vite,mongodb)
 
 ### My Skill
 1. Machine Learning
