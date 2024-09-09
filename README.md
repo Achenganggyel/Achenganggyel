@@ -2,6 +2,7 @@
 
 Per Aspera Ad Astra.
 
+
 ### You can chat with me
 1. Wechat: AllaD01
 2. Mailbox: jessicaZHAO2002@163.com
@@ -14,7 +15,9 @@ Per Aspera Ad Astra.
 
 
 ### Mostly used code languages
-![projects](https://skillicons.dev/icons?i=ts,js,vue,nodejs,vite,mongodb)
+![projects](https://skillicons.dev/icons?i=ts,js,vue,nodejs,express,webpack,vite,Python,mongodb)
 
-### Some 
-1. 
+### My Skill
+1. Machine Learning
+2. Reptile
+3. Front Skills
