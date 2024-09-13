@@ -1,7 +1,12 @@
-## Hi, this is Alla.🔭
+<div align="center">
+   <h1>Hi, this is Alla.🔭</h1>
+</div>
+
 
 Per Aspera Ad Astra.
 Hello, You are the ![Visitor Count](https://profile-counter.glitch.me/Achenganggyel/count.svg) vistor coming to my HomePage.
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ### Statics and Management
 1. Code Calculation
@@ -11,7 +16,7 @@ Hello, You are the ![Visitor Count](https://profile-counter.glitch.me/Achengangg
 
 2. Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Achenganggyel&row=2&column=5)
+![trophy](https://github-profile-trophy.vercel.app/?username=Achenganggyel&row=1&column=5)
 
 3. Activity Caculation
    
@@ -34,7 +39,7 @@ Hello, You are the ![Visitor Count](https://profile-counter.glitch.me/Achengangg
 ### Interesting Projects
 - Personal Management System
 - 
-- ?
+- 
 
 ### You can chat with me
 1. Wechat: AllaD01
