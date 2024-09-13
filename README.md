@@ -18,22 +18,30 @@ Welcome, You are the ![Visitor Count](https://profile-counter.glitch.me/Achengan
 </div>
 
 ### Statics and Management
-1. Code Calculation
 
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=Achenganggyel&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="Achenganggyel's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achenganggyel&layout=compact&title_color=359697&icon_color=359697&hide_border=true" /> |
 | ------------- | ------------- |
 
-2. Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Achenganggyel&row=1&column=5)
-
-
-<!--(https://github.com/Achenganggyel/github-readme-activity-graph)-->
 
 ----
+待修改成并排的
+<p align='left'>
+   <h4>My Skill</h4>
+   - Front Skills
+   - Machine Learning & Artificial Intelligence
+   - Reptile
+   <h4>My Blog</h4>
+   [我的博客：修改中]()
+   <>
+</p>
+
+<p align='right'>
+   
+</p>
+
 
 ### Here is my blog
-[我的博客：修改中]()
+
 
 ### You can chat with me
 1. Wechat: AllaD01
@@ -44,15 +52,16 @@ Welcome, You are the ![Visitor Count](https://profile-counter.glitch.me/Achengan
 ### Mostly used code languages
 ![projects](https://skillicons.dev/icons?i=ts,js,vue,react,nodejs,express,webpack,vite,python,mongodb)
 
-### My Skill
-1. Front Skills
-2. Machine Learning & Artificial Intelligence
-3. Reptile
+
+### Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Achenganggyel&row=1&column=5)
 
 ### Thanks
 - Github个人主页美化[CSDN]：https://blog.csdn.net/qq_44231797/article/details/129251980
 - Awesome Github Profile Readme: https://github.com/abhisheknaiidu/awesome-github-profile-readme
 - Layout Reference: https://github.com/mayhemantt/mayhemantt/blob/master/README.md?plain=1
+
 
 
 **If you like My Projects, please give forks or stars :star: !!**
