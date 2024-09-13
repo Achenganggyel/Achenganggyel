@@ -3,10 +3,19 @@
 </div>
 
 
-Per Aspera Ad Astra.
-Hello, You are the ![Visitor Count](https://profile-counter.glitch.me/Achenganggyel/count.svg) vistor coming to my HomePage.
+<h5><i>⚡️Per Aspera Ad Astra.⚡️</i></h5>
 
+<br/>
+
+Welcome, You are the ![Visitor Count](https://profile-counter.glitch.me/Achenganggyel/count.svg) vistor coming to my HomePage.
+
+<div align='center'>
+   <h3>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+    💻 Front-end engineer | 🛸 China 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+   </h3>
+</div>
 
 ### Statics and Management
 1. Code Calculation
@@ -18,28 +27,13 @@ Hello, You are the ![Visitor Count](https://profile-counter.glitch.me/Achengangg
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Achenganggyel&row=1&column=5)
 
-3. Activity Caculation
-   
-![](https://github-readme-activity-graph.cyclic.app/graph?username=Achenganggyel&theme=dracula)
-
 
 <!--(https://github.com/Achenganggyel/github-readme-activity-graph)-->
-
-4. Code Quadrant
-
-[![Achenganggyel's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Achenganggyel&theme=dracula)](https://github.com/Achenganggyel/github-readme-activity-graph)
-
-<br>
 
 ----
 
 ### Here is my blog
 [我的博客：修改中]()
-
-### Interesting Projects
-- Personal Management System
-- 
-- 
 
 ### You can chat with me
 1. Wechat: AllaD01
@@ -58,6 +52,7 @@ Hello, You are the ![Visitor Count](https://profile-counter.glitch.me/Achengangg
 ### Thanks
 - Github个人主页美化[CSDN]：https://blog.csdn.net/qq_44231797/article/details/129251980
 - Awesome Github Profile Readme: https://github.com/abhisheknaiidu/awesome-github-profile-readme
+- Layout Reference: https://github.com/mayhemantt/mayhemantt/blob/master/README.md?plain=1
 
 
 **If you like My Projects, please give forks or stars :star: !!**
