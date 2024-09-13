@@ -3,19 +3,25 @@
 Per Aspera Ad Astra.
 
 ### Statics and Management
-1. Metrics 
+1. Code Calculation
 
-2. Code Caculate
-[![Achenganggyel's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Achenganggyel&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Achenganggyel/github-readme-stats#gh-dark-mode-only)
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=Achenganggyel&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="Achenganggyel's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achenganggyel&layout=compact&title_color=359697&icon_color=359697&hide_border=true" /> |
+| ------------- | ------------- |
 
-4. Trophies
+2. Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Achenganggyel&row=2&column=5)
 
+3. Activity Caculation
+   
+![](https://github-readme-activity-graph.cyclic.app/graph?username=Achenganggyel&theme=dracula)
 
-4. ？
+4. 
 
-5. 
+
+<br>
+
+----
 
 ### Here is my blog
 [我的博客：修改中]()
@@ -33,5 +39,12 @@ Per Aspera Ad Astra.
 
 ### My Skill
 1. Front Skills
-2. Machine Learning
-3. Reptile 
+2. Machine Learning & Artificial Intelligence
+3. Reptile
+
+### Thanks
+- Github个人主页美化[CSDN]：https://blog.csdn.net/qq_44231797/article/details/129251980
+- Awesome Github Profile Readme: https://github.com/abhisheknaiidu/awesome-github-profile-readme
+
+
+**If you like My Projects, please give forks or stars :star: !!**
