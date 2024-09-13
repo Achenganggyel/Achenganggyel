@@ -1,7 +1,7 @@
 ## Hi, this is Alla.🔭
 
 Per Aspera Ad Astra.
-Hello, You are the ![Visitor Count](https://profile-counter.glitch.me/Achenganggyel/count.svg) vistor coming into my HomePage.
+Hello, You are the ![Visitor Count](https://profile-counter.glitch.me/Achenganggyel/count.svg) vistor coming to my HomePage.
 
 ### Statics and Management
 1. Code Calculation
@@ -15,7 +15,10 @@ Hello, You are the ![Visitor Count](https://profile-counter.glitch.me/Achengangg
 
 3. Activity Caculation
    
-[![Achenganggyel's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Achenganggyel&theme=dracula)](https://github.com/Achenganggyel/github-readme-activity-graph)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=Achenganggyel&theme=dracula)
+
+
+<!--(https://github.com/Achenganggyel/github-readme-activity-graph)-->
 
 4. Code Quadrant
 
