@@ -1,8 +1,7 @@
 ## Hi, this is Alla.🔭
 
 Per Aspera Ad Astra.
-Hello, You are the ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red) vistor coming into my HomePage.
-
+Hello, You are the ![Visitor Count](https://profile-counter.glitch.me/Achenganggyel/count.svg) vistor coming into my HomePage.
 
 ### Statics and Management
 1. Code Calculation
@@ -18,7 +17,9 @@ Hello, You are the ![visitors](https://visitor-badge.glitch.me/badge?page_id=pag
    
 [![Achenganggyel's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Achenganggyel&theme=dracula)](https://github.com/Achenganggyel/github-readme-activity-graph)
 
-4. All my friend, the music is loud.
+4. Code Quadrant
+
+[![Achenganggyel's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Achenganggyel&theme=dracula)](https://github.com/Achenganggyel/github-readme-activity-graph)
 
 <br>
 
