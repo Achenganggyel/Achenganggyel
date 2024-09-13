@@ -12,7 +12,7 @@ Welcome, You are the ![Visitor Count](https://profile-counter.glitch.me/Achengan
 <div align='center'>
    <h3>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-    💻 Front-end engineer | 🛸 China 
+    
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
    </h3>
 </div>
