@@ -18,8 +18,7 @@ Hello, You are the ![visitors](https://visitor-badge.glitch.me/badge?page_id=pag
    
 [![Achenganggyel's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Achenganggyel&theme=dracula)](https://github.com/Achenganggyel/github-readme-activity-graph)
 
-4. 
-
+4. All my friend, the music is loud.
 
 <br>
 
@@ -29,6 +28,9 @@ Hello, You are the ![visitors](https://visitor-badge.glitch.me/badge?page_id=pag
 [我的博客：修改中]()
 
 ### Interesting Projects
+- Personal Management System
+- 
+- ?
 
 ### You can chat with me
 1. Wechat: AllaD01
