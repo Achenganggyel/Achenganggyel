@@ -1,6 +1,8 @@
 ## Hi, this is Alla.🔭
 
 Per Aspera Ad Astra.
+Hello, You are the ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red) vistor coming into my HomePage.
+
 
 ### Statics and Management
 1. Code Calculation
@@ -14,7 +16,7 @@ Per Aspera Ad Astra.
 
 3. Activity Caculation
    
-![](https://github-readme-activity-graph.cyclic.app/graph?username=Achenganggyel&theme=dracula)
+[![Achenganggyel's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Achenganggyel&theme=dracula)](https://github.com/Achenganggyel/github-readme-activity-graph)
 
 4. 
 
