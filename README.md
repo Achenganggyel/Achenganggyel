@@ -2,16 +2,16 @@
    <h1>Hi, this is Alla.🔭</h1>
 </div>
 
-<h5 align='center'><i>
-   <span>
+<div align='center'><i>
+   <h3>
    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
    Per Aspera Ad Astra.
-   </span>
-   <span>
+   </h3>
+   <h5>
    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-   <p>Fake it till you make it.</p>
-   </span>   
-</i></h5>
+   Fake it till you make it.
+   </h5>
+</i></div>
 
 <br/>
 
