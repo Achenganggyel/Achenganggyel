@@ -2,20 +2,21 @@
    <h1>Hi, this is Alla.🔭</h1>
 </div>
 
-
-<h5><i>⚡️Per Aspera Ad Astra.⚡️</i></h5>
+<h5 align='center'><i>
+   <span>
+   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+   Per Aspera Ad Astra.
+   </span>
+   <span>
+   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+   <p>Fake it till you make it.</p>
+   </span>   
+</i></h5>
 
 <br/>
 
 Welcome, You are the ![Visitor Count](https://profile-counter.glitch.me/Achenganggyel/count.svg) vistor coming to my HomePage.
 
-<div align='center'>
-   <h3>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-    
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-   </h3>
-</div>
 
 ### Statics and Management
 
@@ -24,33 +25,50 @@ Welcome, You are the ![Visitor Count](https://profile-counter.glitch.me/Achengan
 
 
 ----
-待修改成并排的
-<p align='left'>
-   <h4>My Skill</h4>
-   - Front Skills
-   - Machine Learning & Artificial Intelligence
-   - Reptile
-   <h4>My Blog</h4>
-   [我的博客：修改中]()
-   <>
-</p>
-
-<p align='right'>
-   
-</p>
-
-
-### Here is my blog
-
-
-### You can chat with me
-1. Wechat: AllaD01
-2. Mailbox: <br/>
-   jessicaZHAO2002@163.com **(中文邮箱)** <br/>
-   jz.2002.szzx@gmail.com **(英文邮箱)**
 
 ### Mostly used code languages
 ![projects](https://skillicons.dev/icons?i=ts,js,vue,react,nodejs,express,webpack,vite,python,mongodb)
+
+
+<table>
+  <tr>
+    <!-- 第一列 -->
+    <td rowspan="2">
+       <h4>Total Lines of Code</h4>
+       <ul>  
+           <li>5000</li>
+       </ul> 
+    </td>
+    <!-- 第二列 -->
+    <td rowspan="2">
+      <h4>My Skill</h4>
+      <ul>
+        <li>Front Skills</li>
+        <li>Machine Learning & Artificial Intelligence</li>
+        <li>Reptile</li>
+      </ul>
+    </td>
+    <!-- 第三列的第一行 -->
+    <td>
+      <h4>My Blog</h4>
+      <ul>
+        <li><a href="#">我的博客：修改中</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <!-- 第三列的第二行 -->
+    <td>
+      <h4>You can chat with me</h4>
+      <ul>
+        Wechat: AllaD01 <br/>
+        Mailbox: <br/>
+        jessicaZHAO2002@163.com (中文邮箱) <br/>
+        jz.2002.szzx@gmail.com (英文邮箱)
+      </ul>
+    </td>
+  </tr>
+</table>
 
 
 ### Trophies
