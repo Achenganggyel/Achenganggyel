@@ -7,10 +7,6 @@
    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
    Per Aspera Ad Astra.
    </h3>
-   <h5>
-   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-   Fake it till you make it.
-   </h5>
 </i></div>
 
 <br/>
